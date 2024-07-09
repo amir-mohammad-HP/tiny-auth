@@ -1,0 +1,28 @@
+{
+  "name": "tiny-auth",
+  "version": "1.0.0",
+  "description": "an username, password authentication wrapper for nextjs app router",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/amir-mohammad-HP/tiny-auth.git"
+  },
+  "keywords": [
+    "auth",
+    "nextjs",
+    "next",
+    "next-auth",
+    "authentication",
+    "react",
+    "app-router"
+  ],
+  "author": "amir mohammad hamidi pour",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amir-mohammad-HP/tiny-auth/issues"
+  },
+  "homepage": "https://github.com/amir-mohammad-HP/tiny-auth#readme"
+}
